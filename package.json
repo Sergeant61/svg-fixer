@@ -1,0 +1,15 @@
+{
+  "name": "svg-fixer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "oslllo-svg-fixer": "^2.1.0"
+  }
+}
